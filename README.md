@@ -77,7 +77,7 @@ Dataset includes match-level details from IPL seasons 2008-2024. Contains inform
 
 
 
-**Tools & Libraries**
+**Tools & Libraries** -
 
 -> Python - main programming language.
 
@@ -106,7 +106,7 @@ Dataset includes match-level details from IPL seasons 2008-2024. Contains inform
 12. Toss decisions are the most important factor for a cricket match, where most of the captains have been decided to field first, after winning the toss.
 13. Top partnerships which came out as game changing moments, had been performed by Sunrisers Hyderavbad and Royal Challengers Bengaluru, followed by Kolakta Knight Riders.
 14. AB de Villiers and CH Gayle had won Player of the Match Award most of the times.
-15. In 2019 and 2020 most of the matches went to super overs as decisive innings. The teams mostly involved in super overs are Kolkata Knight Riders, Sunrisers Hyderabad and Punjab Kings.
+15. In 2020 most of the matches went to super overs as decisive innings, followed by in 2019 and 2013. The teams mostly involved in super overs are Kolkata Knight Riders, Sunrisers Hyderabad and Punjab Kings.
 16. Matches Which had been won by the smallest number of wickets in hand, by mostly Lucknow Supergiants, followed by Sunrisers Hyderabad, Chennai Super Kings, and Kolkata Kight Riders.
 17. Over the years, scoring patterns have shifted upward, reflecting aggresive batting strategies in modern T20 cricket.
    
