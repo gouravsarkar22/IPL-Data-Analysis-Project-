@@ -1,0 +1,8 @@
+requirements
+
+python --3.13.7
+
+Pandas
+NumPy
+Matplotlib
+Seaborn
